@@ -1,5 +1,5 @@
-# Employee Bonus
-# Write your MySQL query statement below
+-- Employee Bonus
+-- Write your MySQL query statement below
 
 SELECT e.name,b.bonus
 FROM Employee e
